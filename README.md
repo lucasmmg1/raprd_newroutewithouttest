@@ -7,7 +7,7 @@
 
   <section>
     <h2>Project Structure</h2>
-    <pre><code> users-api/
+    <pre><code> raprd_newroutewithouttest/
  |
  |-- app.js
  |-- users.json
@@ -48,7 +48,7 @@
       structure:
     </p>
     <pre><code>{
-  name: ...,
+  path: ...,
   method: ...,
   action: ...,
   test: ...
