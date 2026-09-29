@@ -60,7 +60,7 @@
     <h2>Route Properties</h2>
     <ul>
       <li>
-        <code>name</code> — the URL path handled by the route.
+        <code>path</code> — the URL path handled by the route.
       </li>
       <li>
         <code>method</code> — the HTTP method used by the route, such as
